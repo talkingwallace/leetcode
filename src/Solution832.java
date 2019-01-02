@@ -16,6 +16,7 @@ public class Solution832 {
         return 1;
     }
 
+    // flip every row in the mat
     static public int[][] flipAndInvertImage(int[][] A) {
         for(int i =0;i<A.length;i++){
             processARow(A[i]);
@@ -26,11 +27,9 @@ public class Solution832 {
     static public int[] processARow(int[] row){
         int s = 0,e = row.length-1;
         while(e>=s){
-            if(e == s){
-                row[e] = invert(row[e]);
-            }
-            else if(row[e]==row[s]){
-                row[e] = invert(row[e]);
+
+            if(row[e]==row[s]){
+                row[e] = row[e]==0?1:0;
                 row[s] = row[e];
             }
             s++;
