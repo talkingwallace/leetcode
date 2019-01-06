@@ -2,6 +2,6 @@ import java.util.HashMap;
 
 public class test {
     public static void main(String args[]){
-        Solution905.test();
+        Solution200.test();
     }
 }
