@@ -45,6 +45,8 @@ public class Solution200 {
 
     static public void test(){
         char [][] a ={{'1','1','1','1','0'},{'1','1','0','1','0'},{'1','1','0','0','0'},{'0','0','0','0','0'}};
+        String str = "123";
+        str.toLowerCase();
         System.out.print(numIslands(a));
     }
 

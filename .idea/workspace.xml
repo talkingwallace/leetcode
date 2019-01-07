@@ -11,79 +11,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
               <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               <folding>
                 <element signature="e#89#90#0" expanded="true" />
-                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution961.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solution70.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="41" column="5" selection-start-line="24" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+            <state relative-caret-position="648">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution832.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution905.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution321.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Soluton695.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="60" column="5" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
-              <folding>
-                <element signature="e#646#647#0" expanded="true" />
-                <element signature="e#673#674#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution200.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-              <folding>
-                <element signature="e#619#620#0" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,12 +57,18 @@
         <option value="$PROJECT_DIR$/src/Solution905.java" />
         <option value="$PROJECT_DIR$/src/Solution321.java" />
         <option value="$PROJECT_DIR$/src/Soluton695.java" />
+        <option value="$PROJECT_DIR$/src/Solution796.java" />
         <option value="$PROJECT_DIR$/src/Solution200.java" />
+        <option value="$PROJECT_DIR$/src/Solution125.java" />
+        <option value="$PROJECT_DIR$/src/Solution859.java" />
+        <option value="$PROJECT_DIR$/src/Solution890.java" />
+        <option value="$PROJECT_DIR$/src/Solution937.java" />
         <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/Solution70.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="419" />
     <option name="y" value="100" />
     <option name="width" value="1400" />
@@ -127,6 +81,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,11 +98,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546779550264" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546847347637" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -191,9 +145,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -202,7 +155,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -224,53 +177,93 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Solution961.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="41" column="5" selection-start-line="24" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+        <state relative-caret-position="696">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution832.java">
+    <entry file="file://$PROJECT_DIR$/src/Soluton695.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="488">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution200.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="45" column="30" lean-forward="true" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution125.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="46" lean-forward="true" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution289.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution321.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Soluton695.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution796.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="60" column="5" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
-          <folding>
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="616">
+          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution832.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution905.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+        <state relative-caret-position="-504">
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution200.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution937.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        <state relative-caret-position="96">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution890.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="52" column="30" lean-forward="true" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
           <folding>
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#199#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution859.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -281,7 +274,18 @@
           <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding>
             <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution70.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
           </folding>
         </state>
       </provider>
