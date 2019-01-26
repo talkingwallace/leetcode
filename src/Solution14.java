@@ -28,6 +28,7 @@ public class Solution14{
         }
     }
 
+
     static public void test(){
         System.out.println(longestCommonPrefix(new String[]{"da","a"}));
     }
