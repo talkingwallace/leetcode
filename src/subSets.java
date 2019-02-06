@@ -20,7 +20,7 @@ public class subSets {
     }
 
     public static void test() {
-        int n = 4;
+        int n = 3;
         int A[] = new int [n];
         subset(n, A, 0);
     }
