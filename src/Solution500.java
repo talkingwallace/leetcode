@@ -1,5 +1,5 @@
 public class Solution500 {
-    // only python3 version 
+    // only python3 version
     /*
     * class Solution(object):
 
