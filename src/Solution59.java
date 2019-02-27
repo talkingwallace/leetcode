@@ -1,7 +1,6 @@
 public class Solution59 {
 
     // 0 left 1 down 2 right 3 up
-
     static void go(int x,int y,int direction,int count,int rs[][]){
         int n = rs.length;
         if(direction==2){ // go right
@@ -9,7 +8,7 @@ public class Solution59 {
                 rs[x][y] = count++;
                 y++;
             }
-            if(rs[x][y]!=0)y--;
+            if(y>=n||rs[x][y]!=0)y--;
         }
         else if(direction==0){ //go left
 
@@ -17,21 +16,21 @@ public class Solution59 {
                 rs[x][y] = count++;
                 y--;
             }
-            if(rs[x][y]!=0)y++;
+            if(y<0||rs[x][y]!=0)y++;
         }
         else if(direction==1){ //down
             while(x<n&&rs[x][y]==0){
                 rs[x][y] = count++;
                 x++;
             }
-            if(rs[x][y]!=0)x--;
+            if(x>=n||rs[x][y]!=0)x--;
         }
         else if(direction==3){
             while(x>=0&&rs[x][y]==0){
                 rs[x][y] = count++;
                 x--;
             }
-            if(rs[x][y]!=0)x++;
+            if(x<0||rs[x][y]!=0)x++;
         }
 
         if(y+1<n&&rs[x][y+1]==0)go(x,y+1,2,count,rs);
@@ -45,7 +44,7 @@ public class Solution59 {
     public int[][] generateMatrix(int n) {
         if(n==0)return null;
         int rs[][] = new int[n][n];
-        go(0,0,2,0,rs);
+        go(0,0,2,1,rs);
         return rs;
     }
 }
